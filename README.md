@@ -31,6 +31,14 @@ sin dejar de lado mi pasión por la electrónica 🔥
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robert158309&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert158309&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Contacto
 
 - GitHub: @Robert158309  
